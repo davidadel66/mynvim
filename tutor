@@ -1,0 +1,7 @@
+this is my first nvim tutor file.
+
+
+
+print("hello world from nvim")
+
+
